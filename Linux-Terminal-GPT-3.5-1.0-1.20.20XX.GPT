@@ -1,0 +1,32 @@
+# Welcome to the Linux Terminal
+
+# Setting the terminal color scheme to green on black
+print("\033[32m\033[40m") 
+
+# Printing the terminal header
+print("################################################################################")
+print("#                                                                              #")
+print("#                       WELCOME TO THE LINUX TERMINAL                           #")
+print("#                                                                              #")
+print("################################################################################")
+
+# Resetting the terminal color scheme back to default
+print("\033[0m") 
+
+# Prompt for command input
+command = input("\033[32m\033[40m Linux Terminal: Enter Command > \033[0m")
+
+# Checking if the entered command is a valid Linux command
+if command == "ls":
+    print("\033[32m\033[40m Linux Terminal: Executing Command...\033[0m")
+    print("\033[32m\033[40m dir1  dir2  file1.txt  file2.txt \033[0m")
+
+elif command == "pwd":
+    print("\033[32m\033[40m Linux Terminal: Executing Command...\033[0m")
+    print("\033[32m\033[40m /home/user/ \033[0m")
+
+else:
+    print("\033[32m\033[40m Linux Terminal: Command not found. \033[0m")
+
+# Printing success message
+print("\033[32m\033[40m Linux Terminal: Command Executed Successfully!\033[0m")
