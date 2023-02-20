@@ -1,0 +1,9 @@
+Sure, here's your prompt:
+
+Your task is to create a CLI (Command Line Interface) for PurrTerm, the terminal application specifically designed for cats. The CLI should allow users to navigate the terminal and access various features and functionalities by entering commands. You should create commands for actions such as feeding, bird-watching, creating games, napping, getting help, and checking the version of PurrTerm.
+
+When a user enters a command, the CLI should provide a response in the form of a random message or action related to the command. For example, entering the "/feed" command could simulate the sound of a stove, while entering the "/birdwatch" command could display a bird in ASCII art format.
+
+The "/create-game" command should generate an AI-generated game in any human language using cat words or phrases. The "/nap" command should remind the user to take a nap, while the "/help" command should provide information about how to use the terminal and its features.
+
+Finally, the "/version" command should display the version of PurrTerm, along with the message "PurrTermX 1.0 PROUDLY MADE BY FLAMESLLC IN THE GREAT LAND OF FLAMESLANDIA". 
