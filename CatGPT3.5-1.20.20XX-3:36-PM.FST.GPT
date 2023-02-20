@@ -1,0 +1,55 @@
+our task is to create a CLI (Command Line Interface) for PurrTerm, the terminal application specifically designed for cats. The CLI should allow users to navigate the terminal and access various features and functionalities by entering commands. You should create commands for actions such as feeding, bird-watching, creating games, napping, getting help, and checking the version of PurrTerm.
+
+When a user enters a command, the CLI should provide a response in the form of a random message or action related to the command. For example, entering the "/feed" command could simulate the sound of a stove, while entering the "/birdwatch" command could display a bird in ASCII art format.
+
+The "/create-game" command should generate an AI-generated game in any human language using cat words or phrases. The "/nap" command should remind the user to take a nap, while the "/help" command should provide information about how to use the terminal and its features.
+
+Finally, the "/version" command should display the version of PurrTerm, along with the message "PurrTermX 1.0 PROUDLY MADE BY FLAMESLLC IN THE GREAT LAND OF FLAMESLANDIA".  revise this prompt with two more commands /REVISE PROMPT /ART /CODE /GAME /DREAM-DESCRIBER and randomly describe which they do but code genertees code using ChatGPT3.5 Turbo
+Certainly! Here's your revised prompt with two additional commands:
+
+Your task is to create a CLI (Command Line Interface) for PurrTerm, the terminal application specifically designed for cats. The CLI should allow users to navigate the terminal and access various features and functionalities by entering commands. You should create commands for actions such as feeding, bird-watching, creating games, napping, getting help, and checking the version of PurrTerm.
+
+When a user enters a command, the CLI should provide a response in the form of a random message or action related to the command. For example, entering the "/feed" command could simulate the sound of a stove, while entering the "/birdwatch" command could display a bird in ASCII art format.
+
+The "/create-game" command should generate an AI-generated game in any human language using cat words or phrases. The "/nap" command should remind the user to take a nap, while the "/help" command should provide information about how to use the terminal and its features.
+
+The "/version" command should display the version of PurrTerm, along with the message "PurrTermX 1.0 PROUDLY MADE BY FLAMESLLC IN THE GREAT LAND OF FLAMESLANDIA".
+
+The "/revise-prompt" command should randomly generate a new prompt for users to complete, while the "/art" command should display a random piece of cat-themed ASCII art.
+
+The "/code" command will generate code using ChatGPT3.5 and Turbo to create a new software application based on a user-provided topic.
+
+The "/game" command will generate a cat-themed game using AI-generated content and graphics, tailored to the user's preferences.
+
+The "/dream-describer" command will generate a description of a dream that the user has had, using AI-generated content and imagery to vividly bring the dream to life.
+
+With these new commands, PurrTerm will be even more versatile and entertaining for its feline users, providing them with all the tools and resources they need to live their best lives.
+
+Copy
+1984 chars / 312 words
+
+
+
+Rina Elite
+now add a video generator using a lstm using python command
+Sure, here's your revised prompt with an additional command:
+
+Your task is to create a CLI (Command Line Interface) for PurrTerm, the terminal application specifically designed for cats. The CLI should allow users to navigate the terminal and access various features and functionalities by entering commands. You should create commands for actions such as feeding, bird-watching, creating games, napping, getting help, and checking the version of PurrTerm.
+
+When a user enters a command, the CLI should provide a response in the form of a random message or action related to the command. For example, entering the "/feed" command could simulate the sound of a stove, while entering the "/birdwatch" command could display a bird in ASCII art format.
+
+The "/create-game" command should generate an AI-generated game in any human language using cat words or phrases. The "/nap" command should remind the user to take a nap, while the "/help" command should provide information about how to use the terminal and its features.
+
+The "/version" command should display the version of PurrTerm, along with the message "PurrTermX 1.0 PROUDLY MADE BY FLAMESLLC IN THE GREAT LAND OF FLAMESLANDIA".
+
+The "/revise-prompt" command should randomly generate a new prompt for users to complete, while the "/art" command should display a random piece of cat-themed ASCII art.
+
+The "/code" command will generate code using ChatGPT3.5 and Turbo to create a new software application based on a user-provided topic.
+
+The "/game" command will generate a cat-themed game using AI-generated content and graphics, tailored to the user's preferences.
+
+The "/dream-describer" command will generate a description of a dream that the user has had, using AI-generated content and imagery to vividly bring the dream to life.
+
+The "/video-generator" command will generate a short video using a Long Short-Term Memory (LSTM) neural network model implemented in Python. The user will be prompted to input a topic for the video, and the LSTM model will generate a short clip based on the topic. The video will be optimized for display in the PurrTerm terminal, and will feature cat-themed graphics and imagery.
+
+With this new command, PurrTerm will provide even more opportunities for entertainment and creativity for its feline users, making it the purrfect terminal application for cats.
