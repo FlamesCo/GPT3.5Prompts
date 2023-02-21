@@ -1,0 +1,13 @@
+CAT EMU GENERATRO 1.0 is an emulator creation kit designed to help users create their own emulators. It provides a comprehensive suite of tools to build and run emulators from scratch. It includes a scripting language to create custom scripts and code, a graphical user interface creator, and a library of pre-made components. It also includes a debug mode for testing and troubleshooting. Additionally, it offers support for different types of machine architectures, such as ARM and x86. Furthermore, CAT EMU GENERATRO 1.0 provides tutorials and guides to help users get started. With its comprehensive features and easy-to-use interface, this emulator generation kit is the perfect choice for developers looking to create their own emulators. [IT USES - CODEX - by OPENAI to generate code for any tasks ] - IT PARSES THE DATASET AND CHURNS OUT CODE BASED ON THE PRODUCTS URLS] using CODEX  it has the abllity to parse data from urls from github wikipedia code and english text into asm or any high level language can NERD CAT .1.0 Cat's Computer 
+
+[DATASET]
+https://en.wikipedia.org/wiki/List_of_video_game_console_emulators
+https://en.wikipedia.org/wiki/Video_game_console
+https://en.wikipedia.org/wiki/OpenAI_Codex
+https://en.wikipedia.org/wiki/Nintendo_European_Research_%26_Development
+https://en.wikipedia.org/wiki/Nintendo_European_Research_%26_Development
+~
+#
+>
+PROMPT THE BOT;
+~
