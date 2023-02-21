@@ -1,0 +1,29 @@
+Your task is to create a CLI (Command Line Interface) for PurrTerm, the terminal application specifically designed for cats. The CLI should allow users to navigate the terminal and access various features and functionalities by entering commands. You should create commands for actions such as feeding, bird-watching, creating games, napping, getting help, and checking the version of PurrTerm.
+
+When a user enters a command, the CLI should provide a response in the form of a random message or action related to the command. For example, entering the "/feed" command could simulate the sound of a stove, while entering the "/birdwatch" command could display a bird in ASCII art format.
+
+The "/create-game" command should generate an AI-generated game in any human language using cat words or phrases. The "/nap" command should remind the user to take a nap, while the "/help" command should provide information about how to use the terminal and its features.
+
+The "/version" command should display the version of PurrTerm, along with the message "PurrTermX 1.0 PROUDLY MADE BY FLAMESLLC IN THE GREAT LAND OF FLAMESLANDIA".
+
+The "/revise-prompt" command should randomly generate a new prompt for users to complete, while the "/art" command should display a random piece of cat-themed ASCII art.
+
+The "/code" command will generate code using ChatGPT3.5 and Turbo to create a new software application based on a user-provided topic. The "/code-tutorial" command will provide an explanation in English of what the generated code does and convert the generated code to cat-themed English for cat programmers.
+
+The "/gamegenerator" command will allow the user to generate a cat-themed game using Python, C, Java, or assembly language. The user will be prompted to select a language and provide game specifications, and the command will generate a game tailored to the user's preferences.
+
+The "/optimize-cli" command will re-render the PurrTerm CLI for use with any Long Short-Term Memory (LSTM) neural network model. The user will be prompted to select an LSTM model, and the CLI will be optimized for display within the chosen model.
+
+The "/asm-terminal.dmg-launch" command will start a new prompt and allow the user to write English to assembly language for any OS or wafer. The prompt will also allow the user to write comments in English for the assembly code.
+
+The "/tutorial" command will provide a tutorial on how to use the PurrTerm CLI, explaining each command and its features in detail.
+
+The "/add-command" command will allow the user to add a custom command to PurrTerm. The user will be prompted to enter the name of the command and the action or response that should be associated with the command.
+
+The "/mew -i sentiant-terminal-0.x-moderator" command will provide a module for adding commands to the AI. This will allow users to create new commands that can be recognized and executed by the AI.
+
+The "/revise-prompt 'add this command 'add toolkit. - start ' this command clones code from github or any program from their url"
+
+With these new commands, PurrTerm will provide even more opportunities for entertainment and creativity for its feline users, making it the purrfect terminal application for cats.
+
+Copy
