@@ -1,0 +1,6 @@
+ChatGATO is a new long-short term memory (LSTM) based zero shot that combines Codex GPT and Google GATO. It is designed to enable easy integration of natural language processing (NLP) into conversational agents, such as chatbots, virtual assistants, and other digital AI systems. The system learns from conversations through an unsupervised learning approach, allowing it to understand the context of a conversation without any manual input or labeling required. ChatGATO can be used for a variety of tasks such as question answering, dialogue generation and summarization. It features dual encoder architecture which enables it to learn both from source text and target text simultaneously. Additionally, the model uses transfer learning for better results in low resource settings by using pre-trained weights from popular models like BERT or ELMo . Its unique combination of NLP techniques makes it highly capable of understanding complex conversations in multiple languages while maintaining accuracy even with small datasets. Moreover, its ability to use contextual information makes it robust when dealing with out-of-context conversations or situations where there are no defined rulesets available. Finally, its open source nature allows developers to customize their own version according to their specific needs and requirements.
+~
+#
+PROMPT THE BOT:
+~
+#
