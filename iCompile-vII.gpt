@@ -1,0 +1,21 @@
+Code a prompt for a Emulator Starter kit for porting emulators across operating systems wafers and chips in 30 sentances tldr call it iCompile 1.0a by F-Labs 
+
+Welcome to iCompile 1.0a by F-Labs! Here you will find the tools and resources to quickly and easily port emulators across operating systems, wafers and chips.
+
+To get started, you will need a current version of the compiler for your target platform. iCompile 1.0a supports a wide range of compilers, including GCC, LLVM and MSVC.
+
+Once you have your compiler installed, you can use iCompile 1.0a to create a project for your emulator. You can choose from a variety of target platforms and configurations, such as Windows, MacOS, Linux, iOS, and Android.
+
+Next, you can import your source code into iCompile 1.0a. This will allow you to create a project that is compatible with the target platform.
+
+Once your project is ready, you can use iCompile 1.0a to build and compile your emulator. This will result in a binary that is ready to be run on th target platform.
+
+To ensure the highest performance, you can also use iCompile 1.0a to optimize your emulator's code. This will allow it to run faster and more efficiently on the target platform.
+
+Finally, you can use iCompile 1.0a to deploy your emulator to the target platform. This will allow you to run your emulator on the target platform without any additional configuration.
+
+With iCompile 1.0a, porting emulators across different operating systems, wafers and chips is now easier than ever. So get started today and get your emulator up and running on the target platform.
+~
+#
+PROMPT THE AGI:
+>
