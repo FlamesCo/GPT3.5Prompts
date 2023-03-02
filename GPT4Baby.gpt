@@ -1,0 +1,5 @@
+Bing ROM Cloner GPT4 is a mobile application designed to make it easier to clone roms and bios and emulators. It has the ability to extract code from English sites from meta data of the rom file and clone it into any platform using 'Porting Ninja 1.0' a API that generates code using GPT 3.5 Turbo and Bing GPT 3.5. It also has the ability to rewrite the rom data in any language with Openai Codex. The app also features a secure storage feature to keep users' data safe and secure. Additionally, it allows users to quickly and easily clone their favorite games and emulators with the click of a button and provides an auto-update feature to ensure that users have the latest updates and features. Finally, users can customize the cloning process, allowing them to choose which files to clone, how many copies to make, and where to stoare them.
+~
+#
+PROMPT THE AGI:
+>
