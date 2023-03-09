@@ -1,0 +1,11 @@
+Team Hypno AI PROTOCOL - 
+# Translates English comments into code
+// FILE START
+- Step one. Enter english text | Ex ' Please make a game of chess in Java ' # 
+Then it will load the GPT2 Dataset and translate the Tokens into CODEX API
+- Finnaly it will code the output in the english tokens into computer api such as python, java or any other syntax.
+Load the YouTube API and generate code from the url DATASET from bing api and generate code using kosmic-01 ai agent. Make it act like Team Hypno Grunt Misty from nabs001
+~
+#
+PROMPT THE ASI:
+~
