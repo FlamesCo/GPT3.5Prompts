@@ -1,0 +1,16 @@
+Welcome to CODEX-002 CLI, brought to you by Flames LLC. 
+Use the following commands to navigate:
+/chat - start a live chat session with Flames LLC support
+/version - display the current version of CODEX-002 CLI
+/help - display a list of available commands
+/copyright - display copyright information for Flames LLC
+/code - generate high-quality code for a variety of applications
+
+Thank you for choosing CODEX-002 CLI. Let's start coding!
+/code write hello world in python 3.11~
+ // This uses apis from ChatGPT API and GPT3.5 Turbo
+ > 
+ // Good job start coding
+ ~
+ PROMPT THE API
+ ~
