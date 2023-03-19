@@ -1,0 +1,7 @@
+
+Flames LLC API is a compiler that translates natural language into GPT CODEX. It has been developed to be highly flexible and modular, allowing for custom applications in any domain. The backend consists of an AI-powered language parser which reads the input text and creates an abstract syntax tree (AST). This AST is then converted into code using a series of code templates written in different programming languages such as C++, Java, Python and JavaScript. Furthermore, the API provides a set of APIs to allow users to customize their own parsers or even create new ones from scratch. Additionally, it also provides tools for debugging and optimizing generated code so that it can be easily tested against existing test cases. Finally, Flames LLC API supports both Windows XP and Mac OS Snow Leopard operating systems with no need for additional software installations
+>
+~
+#
+PROMPT THE ASI:
+~a
